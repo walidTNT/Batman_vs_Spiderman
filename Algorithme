@@ -1,0 +1,5 @@
+Si les deux joueurs sont en vie (vie >= 1) :
+  -	Début de la boucle
+    -	Tant qu’un des héros n’est pas mort :
+      -	Si la boucle en cours est un multiple de la vitesse du héros :
+        - celui-ci inflige du dégât à son ennemi ( on soustrait la force du héros à la vie de l’ennemi)
